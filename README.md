@@ -31,4 +31,6 @@ sum() `
 
 ### Follows last in first out order to execute particular stack and stacking of this opeations is called stack frameing
 
-
+## 3.StackOverflow 
+ 
+ ### THis happens when maximum call stack size exceeds (eg:Recursion). 
