@@ -43,13 +43,10 @@ sum() `
   
 ## 4.Memory Leak
 
-`
-let arr=[];
+`let arr=[];
 for(i=5;i>1;i++){
 arr.push(i-1)
-}
-
-`
+}`
  
 
 
