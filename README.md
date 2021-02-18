@@ -45,7 +45,7 @@ sum() `
 
 ### Memory Leak Causes
 
- #### a.
+ #### a. Infinte loop
  `let arr=[];
 for(i=5;i>1;i++){
 arr.push(i-1)
