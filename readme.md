@@ -3,9 +3,11 @@
 
 ## Memory Heap
 
-`const number= 420.69`  ### allocated memory for number stored in Memory heap.
+`const number= 420.69`  
+### allocated memory for number stored in Memory heap.
 
-`const robot={ ### allocated memory for objects and values which is stored in Memory heap.
+`const robot={ 
+### allocated memory for objects and values which is stored in Memory heap.
 first:"Terminator"
 last:"Robot"
 }`
@@ -17,9 +19,9 @@ last:"Robot"
 
 ` function multi(num){
 return num*2;
-}
+} `
 
-function sum(){
+`function sum(){
 const num = 5+9
 return multi(num)
 }
