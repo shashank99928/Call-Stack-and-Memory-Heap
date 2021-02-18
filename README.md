@@ -49,9 +49,9 @@ for(i=5;i>1;i++){
 arr.push(i-1)
 }`
  
- ### 2. Global Variable
+ #### 2. Global Variable
  
- ### 3. setInterval (infinite call)
+ #### 3. setInterval (infinite call)
  
  
 
