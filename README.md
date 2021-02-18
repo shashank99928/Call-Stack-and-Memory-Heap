@@ -36,22 +36,24 @@ sum() `
  ####  This happens when maximum call stack size exceeds (eg:Recursion).
 
 
-## 3.Garbage Collection
+## 4.Garbage Collection
 
  ####  Javascript has automatic garbage colletion . It removes unused memory from Memory Heap which prevents memory leaks
  
   
-## 4.Memory Leak
+## 5.Memory Leak
 
 ### Memory Leak Causes
-1.`let arr=[];
+
+ #### a.
+ `let arr=[];
 for(i=5;i>1;i++){
 arr.push(i-1)
 }`
  
- #### 2. Global Variable
+ #### b. Global Variable
  
- #### 3. setInterval (infinite call)
+ #### c. setInterval (infinite call)
  
  
 
