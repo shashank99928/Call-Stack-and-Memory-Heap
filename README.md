@@ -32,5 +32,12 @@ sum() `
 ### Follows last in first out order to execute particular stack and stacking of this opeations is called stack frameing
 
 ## 3.StackOverflow 
+### This happens when maximum call stack size exceeds (eg:Recursion).
+
+## 3.Garbage Collection
+### Javascript has automatic garbage colletion . It removes unused memory from Memory Heap which prevents memory leaks
  
-### This happens when maximum call stack size exceeds (eg:Recursion). 
+ 
+ 
+
+
