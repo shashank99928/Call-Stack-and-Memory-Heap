@@ -1,7 +1,7 @@
 
 # Call stack + Memory Heap
 
-## - Memory Heap
+## -Memory Heap
 
 `const number= 420.69`  
 ### allocated memory for number stored in Memory heap.
