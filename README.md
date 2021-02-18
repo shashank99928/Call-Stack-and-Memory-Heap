@@ -1,7 +1,7 @@
 
 # Call stack + Memory Heap
 
-## -Memory Heap
+## 1.Memory Heap
 
 `const number= 420.69`  
 ### allocated memory for number stored in Memory heap.
@@ -13,7 +13,7 @@ last:"Robot"
 }`
 
 
-## - Call stack (LIFO)
+## 2.Call stack (LIFO)
 
 ### set of functions/opeations which uses Memory heap to perfrom operations
 
