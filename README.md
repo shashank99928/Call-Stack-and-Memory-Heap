@@ -16,6 +16,7 @@ last:"Robot"
 ## 2.Call stack (LIFO)
 
 ### set of functions/opeations which uses Memory heap to perfrom operations
+### stores only functions which are pushed into it.
 
 ` function multi(num){
 return num*2;
