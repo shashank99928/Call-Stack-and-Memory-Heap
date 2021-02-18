@@ -43,10 +43,16 @@ sum() `
   
 ## 4.Memory Leak
 
-`let arr=[];
+### Memory Leak Causes
+1.`let arr=[];
 for(i=5;i>1;i++){
 arr.push(i-1)
 }`
+ 
+ ### 2. Global Variable
+ 
+ ### 3. setInterval (infinite call)
+ 
  
 
 
