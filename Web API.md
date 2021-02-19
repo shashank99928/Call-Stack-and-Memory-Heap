@@ -31,20 +31,20 @@
 
  ![Happy Christmas](2.png)
  
-   ####                                                                        Call Stack call
+   ####                                                                         operation get passed from call stack to WEB API
  
  
   ![Happy Christmas](3.png)
   
   
   
-   ####                                                                        Call Stack call
+   ####                                                                        Callback Queue from there Eventloop continuously checks  for Call stack
   
    ![Happy Christmas](4.png)
    
    
    
-   ####                                                                        Call Stack call
+   ####                                                                      Call stack gets empty then it pushes the asynchronous operation back to Call Stack for Execution
 
 
 
