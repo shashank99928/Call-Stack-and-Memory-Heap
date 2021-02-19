@@ -1,7 +1,8 @@
 
-# JavaScript Runtime
+# Web API:
+ ####  Inbuilt  API used to perform asynchronous operations. which use DOM,fetch(), setTimeout() to perform such operation. 
 
-## 1.Memory Heap
+## 1.DOM
 
 ### Allocated memory for number stored in Memory heap.
 `const number= 420.69`  
@@ -14,7 +15,7 @@
 `
 
 
-## 2.Call stack (LIFO)
+## 2.Fetch
 
  ####  Set of functions/opeations which uses Memory heap to perfrom operations
  ####  Stores only functions which are pushed into it.
@@ -31,7 +32,7 @@ sum() `
  ####  Follows last in first out order to execute particular stack and stacking of this opeations is called stack frameing
 
 
-## 3.StackOverflow 
+## 3.setTimeoutw
 
  ####  This happens when maximum call stack size exceeds (eg:Recursion).
 
