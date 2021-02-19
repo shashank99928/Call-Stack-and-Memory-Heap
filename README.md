@@ -56,5 +56,6 @@ arr.push(i-1)
  #### c. setInterval (infinite call)
  
  
+ ## 6.Single Threaded
 
-
+ #### One thing at a time (synchronous) .It has only once call stack that's why it is called Single Thread. 
