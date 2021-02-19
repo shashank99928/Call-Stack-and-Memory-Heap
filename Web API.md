@@ -4,7 +4,7 @@
 
 ## 1.DOM
 
-### Allocated memory for number stored in Memory heap.
+### Browser Provides us with Fetch and setTimeout through `window` 
 `const number= 420.69`  
 
  ####  Allocated memory for objects and values which is stored in Memory heap.
