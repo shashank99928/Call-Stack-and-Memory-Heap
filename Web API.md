@@ -21,6 +21,14 @@
  ![Happy Christmas](1.png)
 
 
+ ![Happy Christmas](2.png)
+ 
+ 
+  ![Happy Christmas](3.png)
+  
+  
+   ![Happy Christmas](4.png)
+
 ` function multi(num){
 return num*2;
 } `
